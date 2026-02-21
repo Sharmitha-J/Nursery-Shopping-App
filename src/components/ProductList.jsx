@@ -53,6 +53,7 @@ const ProductList = () => {
           </button>
         </div>
       </nav>
+      
 
       {!showCart ? (
         <div className="product-grid">
